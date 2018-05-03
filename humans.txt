@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+  Thomas Payne
 
 # THANKS
 
-    <name>
+  All the cool peeps that made this possible.
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
+    CSS3, HTML5, Javascript, Compass, p5.js
     Apache Server Configs, jQuery, Modernizr, Normalize.css
